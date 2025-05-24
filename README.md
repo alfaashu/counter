@@ -1,7 +1,6 @@
 # 🎯 React Counter App with Tailwind CSS
 
-![Counter App Screenshot](https://via.placeholder.com/800x400/3d3d3d/ffffff?text=Counter+App+Preview)  
-*(Replace with actual screenshot)*
+![alt text](image.png)
 
 ## 🌟 Overview
 A sleek, interactive counter application featuring:
